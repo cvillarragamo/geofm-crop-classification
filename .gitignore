@@ -1,0 +1,6 @@
+##DATA
+data/raw
+data/test.csv
+
+##Enviroment
+.venv
