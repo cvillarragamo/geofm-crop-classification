@@ -1,6 +1,12 @@
 ##DATA
 data/raw
 data/test.csv
+data/dummy_satellite_data.csv
 
-##Enviroment
-.venv
+##Enviroments
+.vscode/
+# Python compiled files
+__pycache__/
+*.py[cod]
+# Jupyter checkpoint files
+.ipynb_checkpoints/

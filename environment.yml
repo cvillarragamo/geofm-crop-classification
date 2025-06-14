@@ -1,0 +1,21 @@
+name: geofm-challenge
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - xarray
+  - rasterio
+  - pytorch
+  - torchvision
+  - torchaudio
+  - transformers
+  - pip:
+      - huggingface-hub

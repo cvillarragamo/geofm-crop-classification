@@ -2,7 +2,7 @@
 
 This repository contains a machine learning pipeline to classify crop types (cocoa, rubber, oil palm) using pixel-level time-series data from Sentinel-2 and embeddings generated with pretrained geospatial foundation models (GeoFMs).
 
-Challenge hosted on Zindi.
+[Challenge hosted on Zindi] (https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge)
 
 ---
 
